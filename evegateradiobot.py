@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 #
-#  main.py
+#  evegateradiobot.py
 #  
 #  Copyright 2019 NightScreamer <nightscreamer@comp-core-i7-3610qm-473dc9.localdomain>
 #  
