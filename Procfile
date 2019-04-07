@@ -1,1 +1,1 @@
-bot: python3 evegateradiobot.py 
+web: python3 evegateradiobot.py 
