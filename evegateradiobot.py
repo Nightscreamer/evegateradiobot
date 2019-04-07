@@ -26,7 +26,7 @@ import requests
 import datetime
 from time import sleep
 
-token = "890614560:AAE1y-QPUxLLxRzWIHDaMbH_cWRhUYOqXDI"
+token = ""
 
 class BotHandler:
 
